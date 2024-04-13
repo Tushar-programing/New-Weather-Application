@@ -1,0 +1,63 @@
+.search {
+    outline: 2px solid rgb(127, 136, 234);
+    margin-top: 5px;
+    height: 700px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+.search-child {
+    width: 1100px;
+    /* outline: 2px solid rgb(127, 136, 234); */
+    height: 700px;
+}
+
+.search-navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.image {
+    /* outline: 2px solid rgb(127, 136, 234); */
+    width: 630px;
+    background: url(https://www.shutterstock.com/image-illustration/mountains-background-2d-game-application-600nw-511433692.jpg);
+    /* position: absolute; */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.8);
+}
+
+.sh {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+.image-child {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.image-side {
+    /* outline: 2px solid rgb(127, 136, 234); */
+    /* height: 100px; */
+    width: 200px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
+    background-color: #f4f4f4;
+}
+
+.col {
+    background-color: #ffffff;
+}
+
+.sd4 {
+    width: 260px;
+}
+
+.bgimg {
+    background-color: rgb(127, 136, 234);
+}
+
+.scrh {
+    margin-left: 890px;
+    /* border-radius: 10%; */
+    margin-top: px;
+}
